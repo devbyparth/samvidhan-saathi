@@ -1,0 +1,9 @@
+# Data and model files (download or regenerate instead)
+*.pdf
+!report/*.pdf
+!presentation/*.pdf
+bge-small-constitution/
+checkpoints/
+*.zip
+__pycache__/
+.ipynb_checkpoints/

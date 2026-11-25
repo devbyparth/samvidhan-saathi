@@ -1,0 +1,11 @@
+pypdf
+faiss-cpu
+sentence-transformers
+datasets
+accelerate
+transformers
+torch
+gradio
+pandas
+numpy
+matplotlib
